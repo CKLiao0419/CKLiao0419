@@ -23,7 +23,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ckliao0419&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ckliao0419&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ckliao0419&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -34,5 +39,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ckliao0419/ckliao0419/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ckliao0419/ckliao0419/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:ckliao0419?theme=gelbooru&padding=5&offset=4&scale=0.8&align=bottom&pixelated=0&darkmode=auto"  />
+</div>
 
 ###
